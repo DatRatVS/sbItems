@@ -1,0 +1,15 @@
+name: sbItemsButDatRatMadeThem
+version: alpha0.3
+main: datrat.sbitems.sbItems
+api-version: 1.16
+authors: [ DatRat ]
+description: The name is pretty much self explanatory.
+website: www.github.com/DatRatVS
+
+commands:
+  sbgive:
+    description: Give a sbItem to a player.
+  sbgivealt:
+    description: sim <- e um anagrama confia
+  sblist:
+    description: Opens a list with all the already made items.
