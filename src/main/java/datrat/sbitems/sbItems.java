@@ -1,12 +1,11 @@
 package datrat.sbitems;
 
 import datrat.sbitems.itemabilities.*;
-import datrat.sbitems.itemabilities.jokenpon.jankenponPapel;
-import datrat.sbitems.itemabilities.jokenpon.jankenponPedra;
-import datrat.sbitems.itemabilities.jokenpon.jankenponTesoura;
+import datrat.sbitems.itemabilities.jankenpon.jankenponPapel;
+import datrat.sbitems.itemabilities.jankenpon.jankenponPedra;
+import datrat.sbitems.itemabilities.jankenpon.jankenponTesoura;
 import org.bukkit.Bukkit;
 import org.bukkit.event.Listener;
-import org.bukkit.plugin.Plugin;
 import org.bukkit.plugin.java.JavaPlugin;
 
 import java.util.Objects;

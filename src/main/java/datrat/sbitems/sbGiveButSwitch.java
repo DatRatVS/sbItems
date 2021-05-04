@@ -31,7 +31,7 @@ public class sbGiveButSwitch implements CommandExecutor {
 				return true;
 			}
 			Player receiver;
-			if (args[1].equalsIgnoreCase("")) {
+			if (args.length < 2) {
 				receiver = (Player) sender;
 			} else {
 				receiver = Bukkit.getPlayer(args[1]);

@@ -1,5 +1,5 @@
 name: sbItemsButDatRatMadeThem
-version: alpha0.3
+version: alpha0.3.1
 main: datrat.sbitems.sbItems
 api-version: 1.16
 authors: [ DatRat ]

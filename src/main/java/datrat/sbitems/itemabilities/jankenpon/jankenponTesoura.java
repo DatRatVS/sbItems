@@ -1,4 +1,4 @@
-package datrat.sbitems.itemabilities.jokenpon;
+package datrat.sbitems.itemabilities.jankenpon;
 
 import datrat.sbitems.sbItems;
 import org.bukkit.*;
